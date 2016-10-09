@@ -16,7 +16,6 @@ build/
 
 # Local config (e.g. sdk path)
 local.properties
-ClientLibrary/
 *.md
 data/
 SampleScreenshots/
